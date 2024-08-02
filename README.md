@@ -43,7 +43,7 @@ You will need an OpenAI Account and API key:
 1. Clone the repository or download the source code:
 
    ```
-   git clone git@github.com:gmickel/memorybot.git
+   git clone https://github.com/mcyandex/chatbot-memobot.git
    ```
 
 2. Navigate to the project directory:
